@@ -1,16 +1,11 @@
-# flutternews
+# Flutter News App
 
-A new Flutter application.
+This is a news app in which we bring the news from newsapi.org and the selected country is India. We can browse different categories of news and then open them to view the full details
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ # GIF
+ ![GIF](https://user-images.githubusercontent.com/18341427/96550995-49c35380-12cf-11eb-96b3-a40c921a7024.gif)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
