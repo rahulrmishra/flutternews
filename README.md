@@ -4,7 +4,7 @@ This is a news app in which we bring the news from newsapi.org and the selected 
 
 
  # GIF
- ![GIF](https://user-images.githubusercontent.com/18341427/96550995-49c35380-12cf-11eb-96b3-a40c921a7024.gif)
+![GIF](https://user-images.githubusercontent.com/18341427/96581891-25c83800-12f8-11eb-8474-ede1c02f3f67.gif)
 
 
 
